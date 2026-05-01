@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv
+venv/
+*.sqlite
+*.db
+
+# Cloned repos (large, not needed in source control)
+backend/repos/
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# IDE
+.vscode/settings.json
+.idea/
+*.suo
+*.user
+
+# Logs
+*.log
+npm-debug.log*
+
+repos/
